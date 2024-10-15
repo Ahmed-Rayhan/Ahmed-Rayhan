@@ -38,7 +38,7 @@ Here are a few projects I've worked on:
 ### Languages and Tools:
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Verilog" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Verilog_logo.svg" />
+<img align="left" alt="Verilog" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Verilog_logo.svg" />
 <img align="left" alt="MATLAB" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -65,6 +65,4 @@ Here are a few projects I've worked on:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-rayhan&layout=compact&theme=graywhite)](https://github.com/ahmed-rayhan/github-readme-stats)
 
-<img align="left" alt="Verilog" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Verilog_logo.svg" />
-
-
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
