@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Rayhan</h1>
 <h3 align="center">Passionate Electrical Engineer ⚡|| Code Sorcerer💻 || Robotics Enthusiast 🤖</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-rayhan" alt="ahmed-rayhan" /></a> </p>
-
 - 🔭 I’m currently working on **VLSI**
 
 - 🌱 I’m currently learning **Python, JS, Verilog**
