@@ -66,5 +66,5 @@ Here are a few projects I've worked on:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-rayhan&layout=compact&theme=graywhite)](https://github.com/ahmed-rayhan/github-readme-stats)
 
 <img align="left" alt="Verilog" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Verilog_logo.svg" />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ahmed-rayhan.visitor-badge)
+
 
