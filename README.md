@@ -1,7 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]
 <h1 align="center">Hi 👋, I'm Ahmed Rayhan</h1>
 <h3 align="center">Passionate Electrical Engineer ⚡|| Code Sorcerer💻 || Robotics Enthusiast 🤖</h3>
-<img align="right" alt="cat" width="400" src=https://i.pinimg.com/originals/80/5d/92/805d9290bf80860153c6804cc0ed2d3a.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-rayhan" alt="ahmed-rayhan" /></a> </p>
 
